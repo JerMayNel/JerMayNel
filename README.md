@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m JerMayNel</h1>
 <p align="left"> 💻 I’m interested in Programming </p>
-<p align="left"> 📈 💞️ I’m looking to collaborate on Small Scale Projects </p>
+<p align="left"> 💞️ I’m looking to collaborate on Small Scale Projects </p>
 <p align="left"> 🌱 I’m currently learning Python, Java, C++, Kotlin </p>
 <p align="left"> 📫 How to reach me: Here in Github </p>
 
