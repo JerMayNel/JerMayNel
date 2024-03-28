@@ -1,4 +1,4 @@
-<div style="text-align:center; font-size:24px;">👋 Hi, I’m @JerMayNel</div>
+# 👋 Hi, I’m @JerMayNel
 ---
 👀 I’m interested in Programming
 🌱 I’m currently learning Python, Java, C++, Kotlin
