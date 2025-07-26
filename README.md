@@ -16,4 +16,4 @@
 # Frameworks
 ---
 <a href=""><img alt="" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" style="border-radius: 20px; height: 40px; width: 160px;" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="border-radius: 20px; height: 40px; width: 160px;" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="border-radius: 20px; height: 40px; width: 170px;" /></a>
